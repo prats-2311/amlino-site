@@ -1,0 +1,266 @@
+.ourHeadOffice {
+  align-self: stretch;
+  position: relative;
+  font-size: 23.27px;
+  line-height: 25.6px;
+  font-weight: 600;
+  font-family: Archivo;
+  color: #171e1d;
+}
+.positionMarker1Icon {
+  position: absolute;
+  top: 13.42px;
+  left: 8.94px;
+  width: 23.8px;
+  height: 23.8px;
+  overflow: hidden;
+}
+.amlinoTechnologyPvt {
+  position: absolute;
+  top: 8.45px;
+  left: 61.59px;
+  line-height: 236.3%;
+  display: inline-block;
+  width: 216.6px;
+  height: 33.8px;
+}
+.positionMarker1Parent {
+  align-self: stretch;
+  position: relative;
+  background-color: rgba(255, 255, 255, 0);
+  height: 37.7px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.positionMarker1Icon1 {
+  position: absolute;
+  top: 13.91px;
+  left: 6.95px;
+  width: 23.8px;
+  height: 23.8px;
+  overflow: hidden;
+}
+.newDelhiIndia {
+  position: absolute;
+  top: 3.97px;
+  left: 60.6px;
+  line-height: 236.3%;
+  display: inline-block;
+  width: 217.6px;
+  height: 33.8px;
+}
+.infoamlinocom {
+  position: absolute;
+  top: 3.97px;
+  left: 64.57px;
+  line-height: 236.3%;
+  display: inline-block;
+  width: 213.6px;
+  height: 33.8px;
+}
+.mail3Icon {
+  position: absolute;
+  top: 8.94px;
+  left: 9.93px;
+  width: 23.8px;
+  height: 23.8px;
+  overflow: hidden;
+}
+.infoamlinocom1 {
+  position: absolute;
+  top: 4px;
+  left: 65px;
+  line-height: 236.3%;
+  display: inline-block;
+  width: 215px;
+  height: 34px;
+}
+.phoneCall1Icon {
+  position: absolute;
+  top: 14px;
+  left: 10px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.infoamlinocomGroup {
+  align-self: stretch;
+  position: relative;
+  background-color: rgba(255, 255, 255, 0);
+  height: 38px;
+  overflow: hidden;
+  flex-shrink: 0;
+  font-size: 16.13px;
+}
+.xLogoIcon {
+  width: 20px;
+  position: relative;
+  height: 19px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.groupIcon {
+  width: 20px;
+  position: relative;
+  height: 18.9px;
+}
+.socialMedia {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 4px 17px;
+  gap: 27px;
+}
+.footercompanydetails {
+  width: 259px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.services {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-size: 19.91px;
+  line-height: 21.9px;
+  font-weight: 600;
+}
+.onlineMarketing {
+  position: absolute;
+  top: 35.94px;
+  left: 0px;
+  line-height: 16.93px;
+}
+.webDevelopment {
+  position: absolute;
+  top: 66.88px;
+  left: 0px;
+  line-height: 16.93px;
+}
+.projectManagement {
+  position: absolute;
+  top: 97.82px;
+  left: 0px;
+  line-height: 16.93px;
+}
+.footercompanyservices {
+  width: 147px;
+  position: relative;
+  height: 115px;
+}
+.securitySso {
+  position: absolute;
+  top: 128.76px;
+  left: 0px;
+  line-height: 16.93px;
+}
+.footercompanytechnology {
+  width: 134px;
+  position: relative;
+  height: 146px;
+}
+.footeraboutcompany {
+  width: 185px;
+  position: relative;
+  height: 115px;
+}
+.footernavlinks {
+  flex: 1;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  padding: 7px 15px;
+  font-size: 15.93px;
+  color: #171e1d;
+  font-family: Archivo;
+}
+.footerheader {
+  align-self: stretch;
+  background: linear-gradient(
+    90deg,
+    rgba(235, 148, 17, 0.75),
+    rgba(0, 228, 0, 0.56)
+  );
+  border-top: 1px solid #e8ecf2;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 30px;
+}
+.amlinoIncAll {
+  position: relative;
+  line-height: 120%;
+  font-weight: 500;
+}
+.privacyPolicyParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 19.9px;
+}
+.amlinoIncAllRightsReservParent {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 1274.42px;
+}
+.footercompanylicense {
+  width: 100%;
+  height: 16.9px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 1274.42px;
+}
+.footerlicense {
+  align-self: stretch;
+  border-top: 1px solid #e8ecf2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 11.9px 29.9px;
+  font-size: 16px;
+  font-family: Archivo;
+}
+.footercontent {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 1380px;
+}
+.footer {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  height: 402px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px 30px;
+  box-sizing: border-box;
+  min-width: 790px;
+  max-width: 1380px;
+  text-align: left;
+  font-size: 16.03px;
+  color: #000;
+  font-family: Poppins;
+}
